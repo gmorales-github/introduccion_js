@@ -2,6 +2,9 @@
 // El bloque for
 
 // Bloque for sencillo
-for (let index = 1; index < 5; index++) {
-    console.log("Hola");    
+var animal = "Koala";
+
+for (let i = 0; i < 6; i = i + 1) {
+    console.log("Mi animal lindo es un: " + animal + i);
+
 }

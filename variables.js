@@ -3,6 +3,7 @@
 const animal = 'koala';
 const pi = 3.14;
 const anio_cero = 14081995;
+const avogadro = 6.02;
 
 // Declaracion de variables con la palabras claves (keywords) "var" y "let"
 
@@ -14,3 +15,4 @@ let cantidad = 20;
 console.log(pi);
 console.log(dinosaurio);
 console.log("El valor del la variable cantidad: " + cantidad);
+console.log("Este es el numero: " + avogadro);
